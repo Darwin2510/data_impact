@@ -1,5 +1,5 @@
 """
-visualizations.py
+src/visualizations.py
 -----------------
 Capa de GRÁFICOS. Cada función recibe un DataFrame (ya filtrado desde app.py)
 y devuelve una figura. Así los gráficos reaccionan a los filtros.
