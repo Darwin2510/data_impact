@@ -1,0 +1,19 @@
+# Entorno virtual y caché de Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Configuración local / secretos
+.env
+.streamlit/secrets.toml
+
+# Sistema operativo y editores
+.DS_Store
+.vscode/
+.idea/
+
+# Archivos temporales de exploración
+tools/*.json
+tools/*.txt
+*.log
