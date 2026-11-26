@@ -1,5 +1,5 @@
 """
-api_client.py
+src/api_client.py
 -------------
 Capa de ACCESO A DATOS: aquí vive el requests.get que consume la API pública
 de datos.gob.cl (plataforma CKAN).
