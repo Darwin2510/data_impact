@@ -1,5 +1,5 @@
 """
-app.py — Observatorio DataImpact (SOLO interfaz Streamlit)
+src/app.py — Observatorio DataImpact (SOLO interfaz Streamlit)
 -----------------------------------------------------------
 La lógica está separada en /src:
   - src/api_client.py      -> consumo de la API (requests.get)
